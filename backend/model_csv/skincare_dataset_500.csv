@@ -1,0 +1,501 @@
+Age,Gender,Skin_Type,Smoking,Alcohol,Diabetes,Diabetes_Type,morning_cleanser,morning_toner,morning_serum,morning_moisturizer,morning_sunscreen,morning_exfoliator,morning_mask,Location,Common_Concern,Pollution_Level,night_cleanser,night_toner,night_serum,night_moisturizer,night_exfoliator,night_mask,Treatment_Recommendation,Concern_Level
+53,Male,normal,No,No,No,None,1,0,0,0,1,0,0,Surat,wrinkles,Medium,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+66,Male,dry,Yes,No,No,None,1,1,1,1,1,0,0,Mumbai,wrinkles,High,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+43,Female,oily,Yes,No,No,None,1,1,1,0,1,1,0,Imphal,wrinkles,Low,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+29,Female,oily,Yes,No,No,None,1,1,1,0,1,1,0,Bengaluru,acne,Medium,1,1,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+57,Female,combination,No,No,No,None,1,1,0,1,1,0,0,Chennai,wrinkles,High,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+22,Male,dry,No,No,No,None,1,1,1,1,1,0,1,Kolkata,dark_circles,High,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+35,Female,dry,Yes,No,No,None,1,0,1,1,1,0,0,Pune,wrinkles,Medium,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+53,Female,normal,No,No,No,None,1,1,0,0,1,0,0,Delhi,wrinkles,High,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+33,Female,combination,No,No,No,None,1,1,1,1,1,0,1,Agra,dark_circles,High,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+37,Female,combination,No,No,Yes,Type 1,1,1,0,1,1,0,0,Nagpur,wrinkles,Medium,1,1,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+25,Male,combination,No,No,No,None,1,1,0,1,1,0,0,Bhopal,wrinkles,Medium,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+25,Male,combination,No,No,Yes,Type 1,1,1,1,1,1,0,0,Faridabad,acne,High,1,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+38,Female,dry,No,No,No,None,1,1,1,1,1,0,0,Lucknow,acne,High,1,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+67,Male,dry,No,Yes,No,None,1,0,1,1,1,0,0,Jodhpur,wrinkles,Medium,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+50,Male,oily,No,Yes,No,None,1,1,1,0,1,1,0,Imphal,wrinkles,Low,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+54,Female,oily,No,No,No,None,1,1,0,0,1,1,0,Noida,wrinkles,High,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+38,Female,combination,No,No,No,None,1,1,0,1,1,0,0,Agra,wrinkles,High,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+17,Male,combination,No,No,No,None,1,1,1,1,1,0,0,Varanasi,acne,High,1,1,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+36,Female,combination,No,No,Yes,Type 1,1,1,1,0,1,1,0,Noida,wrinkles,High,1,1,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+67,Male,oily,No,No,No,None,1,1,0,0,1,1,0,Jaipur,wrinkles,Medium,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+16,Female,normal,Yes,No,No,None,1,0,1,0,0,0,1,Jodhpur,dark_circles,Medium,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+38,Male,normal,No,No,Yes,Type 2,1,0,1,1,1,0,0,Vadodara,acne,Medium,1,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+21,Male,normal,No,No,Yes,None,1,0,1,1,1,1,0,Surat,dark_spots,Low,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+29,Female,normal,Yes,No,Yes,Type 1,0,0,0,1,1,0,1,Agra,wrinkles,Medium,0,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+65,Male,dry,No,No,Yes,Type 1,0,0,1,0,1,0,0,Lucknow,acne,Low,0,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+24,Female,normal,No,Yes,Yes,Type 1,1,1,1,0,1,1,1,Delhi,acne,Low,1,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+66,Male,combination,Yes,No,No,Type 1,0,0,1,1,1,0,1,Agra,dark_spots,Low,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+53,Male,oily,Yes,Yes,Yes,None,1,0,0,0,0,1,0,Chennai,wrinkles,High,1,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+30,Female,oily,No,Yes,Yes,Type 1,0,1,1,0,0,1,0,Lucknow,wrinkles,Medium,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+32,Female,normal,Yes,No,No,Type 1,0,1,1,1,1,0,1,Mumbai,dark_circles,Low,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+37,Female,oily,Yes,No,No,Type 1,0,1,0,0,1,0,1,Surat,none,Low,0,0,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+26,Female,combination,No,No,Yes,Type 1,0,1,0,0,0,0,0,Vadodara,wrinkles,High,1,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+44,Male,combination,No,Yes,Yes,Type 1,1,1,1,1,0,1,1,Chennai,dark_spots,Medium,0,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+46,Male,normal,Yes,No,No,None,0,0,1,1,1,1,0,Bengaluru,dark_spots,Low,1,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+27,Male,normal,Yes,Yes,No,Type 1,1,1,1,0,1,1,0,Noida,dark_spots,Low,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+67,Female,combination,No,No,No,None,0,0,0,0,1,0,0,Noida,dark_spots,Low,1,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+42,Male,dry,Yes,No,Yes,None,0,1,1,1,0,0,1,Delhi,dark_spots,High,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+26,Female,oily,No,No,Yes,None,0,0,1,0,0,1,0,Vadodara,none,Low,1,1,1,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+37,Male,dry,Yes,No,Yes,Type 1,0,1,0,0,1,1,0,Vadodara,dark_spots,Low,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+26,Male,dry,No,Yes,No,None,0,0,1,0,1,1,1,Lucknow,acne,Low,0,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+48,Male,combination,No,Yes,Yes,Type 1,0,0,1,0,0,0,1,Noida,acne,Low,1,0,0,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+55,Female,normal,Yes,Yes,No,Type 1,1,1,1,1,0,0,1,Kolkata,acne,Low,0,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+60,Female,combination,Yes,Yes,Yes,None,1,0,1,0,1,0,0,Mumbai,wrinkles,Medium,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+67,Male,oily,No,No,Yes,Type 1,0,1,0,0,0,1,0,Agra,dark_spots,High,1,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+51,Male,dry,No,Yes,No,Type 1,1,1,1,0,1,1,1,Jaipur,dark_circles,Medium,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+25,Male,normal,No,Yes,Yes,None,1,0,0,0,0,1,1,Vadodara,none,Medium,1,0,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+55,Female,combination,Yes,No,No,Type 1,0,0,0,0,1,1,0,Chennai,dark_circles,Medium,0,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+24,Male,oily,Yes,No,Yes,Type 1,1,0,1,1,1,0,0,Jaipur,dark_spots,Medium,1,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+36,Male,normal,Yes,Yes,No,Type 1,0,1,1,0,0,1,1,Agra,acne,Low,1,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+66,Female,dry,Yes,Yes,Yes,Type 1,1,0,1,0,0,1,1,Noida,dark_circles,Low,0,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+56,Male,dry,No,No,No,None,1,1,0,1,0,1,0,Mumbai,none,Low,1,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+43,Male,combination,Yes,Yes,Yes,None,0,0,0,1,0,0,0,Chennai,acne,Low,1,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+49,Female,normal,Yes,Yes,No,Type 1,1,1,0,1,0,0,1,Delhi,dark_circles,High,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+54,Female,normal,No,Yes,Yes,None,1,0,1,0,0,1,0,Jaipur,wrinkles,High,0,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+58,Female,combination,Yes,No,No,Type 1,1,1,0,0,1,1,0,Vadodara,none,High,0,0,0,0,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+20,Male,normal,Yes,Yes,No,None,0,0,1,1,1,1,1,Mumbai,acne,Low,0,0,1,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+29,Female,combination,No,No,Yes,None,0,1,1,1,0,0,1,Delhi,dark_spots,Low,0,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+19,Female,oily,No,Yes,No,None,1,1,0,1,1,1,0,Chennai,none,Low,1,0,1,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+38,Male,combination,Yes,No,Yes,None,0,0,1,1,1,1,1,Vadodara,none,Low,0,0,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+70,Male,oily,No,No,No,Type 1,0,0,0,1,1,0,1,Jaipur,dark_spots,Medium,0,1,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+30,Female,oily,No,Yes,No,Type 1,1,0,0,0,0,1,1,Pune,acne,High,1,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+18,Female,oily,Yes,Yes,Yes,None,0,0,0,1,1,0,0,Pune,none,Medium,1,0,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+45,Female,oily,No,Yes,No,Type 1,0,0,1,1,0,0,0,Bengaluru,none,High,1,0,1,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+62,Female,combination,No,Yes,No,Type 1,0,1,0,0,0,0,1,Lucknow,dark_spots,High,0,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+34,Male,combination,No,Yes,No,Type 1,1,0,1,0,1,1,0,Jaipur,dark_spots,Medium,1,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+22,Female,normal,No,Yes,No,None,1,0,1,0,0,1,0,Agra,dark_spots,Medium,0,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+37,Male,dry,Yes,Yes,Yes,Type 1,0,1,1,0,0,1,0,Surat,acne,Medium,0,0,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+33,Female,combination,Yes,No,Yes,None,1,0,0,1,0,0,0,Bengaluru,none,High,0,1,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+47,Male,oily,No,No,Yes,Type 1,0,1,1,1,0,0,0,Bengaluru,dark_circles,High,0,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+17,Male,combination,No,No,Yes,Type 1,1,0,0,1,0,0,0,Bengaluru,none,Medium,1,1,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+45,Male,oily,No,No,No,Type 1,0,1,0,0,0,0,1,Surat,dark_circles,High,1,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+53,Female,combination,No,Yes,No,None,1,0,1,1,0,1,1,Lucknow,dark_circles,High,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+29,Female,combination,No,Yes,No,None,0,0,0,0,0,0,0,Mumbai,wrinkles,High,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+38,Male,oily,Yes,No,Yes,Type 1,0,0,1,1,0,0,1,Mumbai,none,Low,1,0,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+63,Female,normal,Yes,Yes,No,None,0,1,1,0,1,1,1,Kolkata,wrinkles,Low,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+55,Female,combination,No,No,Yes,None,0,0,1,1,1,1,0,Vadodara,none,High,1,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+68,Female,oily,No,No,Yes,Type 1,0,1,0,0,0,0,1,Vadodara,acne,High,1,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+61,Male,oily,No,No,No,Type 1,0,0,0,1,1,0,0,Lucknow,dark_circles,High,0,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+62,Female,oily,Yes,No,No,None,0,0,1,1,0,1,1,Kolkata,wrinkles,Medium,1,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+31,Male,normal,No,Yes,Yes,None,1,1,1,1,0,1,1,Delhi,acne,Low,0,1,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+53,Male,oily,Yes,Yes,No,Type 1,0,1,1,1,1,1,0,Jaipur,wrinkles,Medium,1,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+32,Female,dry,No,Yes,No,Type 1,1,1,0,0,0,0,1,Noida,none,Medium,0,0,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+38,Male,dry,Yes,No,No,Type 1,0,0,0,0,1,0,0,Delhi,acne,Low,1,0,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+63,Male,oily,Yes,Yes,Yes,Type 1,0,0,1,0,0,1,0,Pune,dark_circles,Medium,1,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+50,Female,dry,No,No,No,Type 1,0,0,0,1,1,1,0,Delhi,dark_spots,Low,1,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+19,Female,oily,Yes,Yes,Yes,None,1,1,0,1,0,1,0,Kolkata,dark_spots,Medium,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+47,Female,combination,No,No,No,None,0,1,1,0,1,0,0,Chennai,none,High,1,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+66,Male,normal,No,No,Yes,None,0,1,1,0,0,1,1,Pune,none,Medium,1,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+69,Female,combination,Yes,No,No,Type 1,1,0,1,0,1,1,1,Noida,none,Medium,0,0,0,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+48,Male,normal,Yes,No,No,None,1,0,1,1,0,1,1,Noida,acne,High,0,1,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+46,Male,normal,Yes,No,Yes,None,1,0,0,1,0,0,0,Jaipur,dark_spots,Low,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+59,Male,normal,No,Yes,No,Type 1,1,1,0,1,1,1,0,Jaipur,none,Medium,0,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+59,Female,combination,No,Yes,Yes,None,0,0,0,1,0,1,1,Delhi,dark_spots,Medium,1,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+35,Female,combination,No,No,Yes,None,1,1,1,0,0,1,0,Lucknow,dark_circles,Medium,1,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+70,Female,combination,Yes,Yes,No,Type 1,1,1,1,1,1,0,1,Bengaluru,none,Low,1,0,0,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+16,Female,oily,Yes,No,Yes,Type 1,0,0,0,0,0,0,0,Lucknow,none,Medium,1,1,0,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+27,Female,normal,No,Yes,Yes,None,1,0,0,1,0,1,1,Jaipur,acne,Low,0,0,1,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+31,Female,combination,Yes,No,Yes,None,1,0,1,1,1,1,1,Surat,none,Medium,0,1,1,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+29,Female,dry,No,Yes,No,Type 1,0,1,1,1,0,0,1,Pune,dark_spots,High,1,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+39,Female,oily,Yes,No,No,Type 1,0,0,0,0,0,0,1,Mumbai,none,Low,0,1,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+53,Male,oily,No,No,No,Type 1,1,0,0,1,0,0,0,Delhi,none,Low,1,0,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+37,Male,oily,No,No,Yes,Type 1,0,0,1,1,1,0,1,Pune,none,Low,0,0,1,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+26,Male,combination,Yes,Yes,No,Type 1,0,0,0,0,0,1,1,Pune,none,High,0,1,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+46,Male,combination,Yes,Yes,No,Type 1,1,1,0,1,0,0,1,Mumbai,dark_circles,Low,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+40,Female,oily,Yes,Yes,Yes,None,0,0,1,0,1,0,0,Delhi,none,Medium,1,0,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+43,Female,combination,Yes,Yes,No,Type 1,0,0,1,0,0,1,1,Vadodara,none,Medium,0,0,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+36,Male,oily,Yes,No,Yes,Type 1,1,1,1,0,0,0,1,Jaipur,dark_circles,High,0,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+57,Female,normal,Yes,No,Yes,None,1,1,0,1,0,1,1,Chennai,none,Medium,1,1,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+50,Male,dry,No,Yes,No,Type 1,1,1,1,0,0,0,0,Chennai,acne,High,1,0,1,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+45,Female,normal,Yes,Yes,Yes,None,0,1,1,1,1,0,1,Bengaluru,none,Low,0,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+64,Female,oily,No,No,No,Type 1,1,0,1,1,1,1,0,Pune,none,Medium,0,1,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+26,Female,oily,No,No,Yes,Type 1,1,0,1,0,0,0,1,Noida,dark_spots,Low,0,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+22,Female,combination,No,No,Yes,None,1,0,0,1,0,0,1,Lucknow,dark_circles,High,1,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+59,Female,dry,Yes,No,No,Type 1,0,1,0,0,0,1,1,Jaipur,acne,Medium,1,0,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+61,Female,dry,Yes,Yes,No,Type 1,1,0,0,0,0,0,0,Kolkata,acne,Low,0,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+63,Female,normal,No,No,No,Type 1,0,0,1,1,0,1,1,Surat,dark_spots,Medium,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+58,Female,normal,No,No,Yes,None,1,1,1,0,0,1,0,Noida,none,Low,0,0,0,0,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+64,Female,combination,Yes,Yes,Yes,Type 1,1,1,0,1,0,0,1,Bengaluru,none,Medium,0,0,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+34,Male,normal,No,No,No,None,1,0,0,1,0,1,1,Surat,dark_circles,Medium,0,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+23,Female,oily,No,Yes,Yes,None,1,0,1,0,1,1,0,Agra,acne,High,0,1,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+40,Female,normal,Yes,No,Yes,Type 1,1,1,1,1,1,0,1,Pune,wrinkles,Low,0,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+63,Female,oily,Yes,No,Yes,None,1,0,1,1,1,0,1,Mumbai,dark_spots,Low,1,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+24,Male,normal,Yes,Yes,No,None,1,0,1,1,1,1,0,Lucknow,dark_circles,Low,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+63,Male,dry,No,Yes,Yes,None,1,0,0,1,0,1,1,Lucknow,dark_spots,Low,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+41,Female,oily,Yes,No,No,Type 1,1,0,0,0,1,0,1,Agra,dark_spots,Medium,0,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+57,Male,oily,No,Yes,Yes,None,1,1,0,1,0,0,1,Lucknow,none,Low,1,0,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+29,Female,oily,Yes,No,Yes,None,1,1,1,1,0,0,0,Chennai,wrinkles,High,1,1,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+59,Female,dry,Yes,No,Yes,None,1,1,1,0,0,1,1,Chennai,dark_spots,High,1,1,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+69,Female,dry,No,Yes,Yes,None,0,1,0,0,1,1,0,Agra,dark_circles,Low,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+53,Male,combination,No,Yes,Yes,None,0,0,1,0,0,1,1,Mumbai,dark_circles,Medium,1,0,0,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+67,Female,oily,No,Yes,Yes,None,1,0,1,1,1,1,0,Mumbai,dark_spots,Low,1,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+68,Male,normal,No,No,Yes,None,0,1,1,1,0,0,1,Lucknow,acne,Low,1,0,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+33,Male,normal,No,Yes,No,None,0,1,0,0,1,1,1,Pune,dark_spots,Low,1,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+36,Female,normal,Yes,Yes,Yes,Type 1,0,1,0,1,1,0,1,Noida,wrinkles,High,1,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+57,Female,dry,Yes,No,Yes,None,0,0,0,0,1,0,0,Pune,acne,Low,1,0,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+63,Male,oily,Yes,No,Yes,Type 1,1,0,0,1,1,0,1,Jaipur,dark_spots,Medium,1,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+36,Female,normal,No,No,Yes,None,0,1,0,1,0,1,1,Bengaluru,wrinkles,High,1,1,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+21,Female,combination,No,Yes,Yes,Type 1,0,1,1,0,0,1,0,Delhi,dark_spots,Low,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+47,Female,normal,Yes,No,Yes,Type 1,0,1,0,1,1,1,0,Delhi,wrinkles,Low,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+59,Male,combination,Yes,Yes,No,None,1,0,0,1,1,0,0,Delhi,wrinkles,Low,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+31,Female,dry,Yes,No,Yes,Type 1,0,1,0,1,0,1,1,Delhi,acne,Medium,1,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+30,Female,normal,Yes,No,Yes,None,1,1,0,1,0,0,1,Pune,dark_spots,Medium,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+61,Male,combination,Yes,No,Yes,Type 1,1,0,0,0,1,1,0,Pune,dark_circles,High,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+24,Female,oily,No,Yes,Yes,None,1,0,1,0,1,0,1,Mumbai,dark_circles,Low,0,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+36,Male,oily,No,No,No,Type 1,0,1,0,1,0,1,1,Bengaluru,acne,Medium,1,0,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+31,Female,dry,No,No,No,Type 1,0,0,0,1,0,0,0,Delhi,none,Low,1,1,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+43,Male,oily,Yes,No,Yes,None,1,1,1,0,1,0,0,Jaipur,dark_spots,Low,0,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+65,Female,oily,No,No,No,Type 1,1,0,1,0,1,1,1,Noida,dark_spots,High,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+39,Female,normal,Yes,Yes,Yes,None,1,0,1,0,1,0,0,Surat,dark_circles,Low,1,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+37,Male,combination,Yes,Yes,Yes,None,0,1,1,0,1,1,0,Surat,none,Medium,1,0,0,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+63,Female,dry,No,Yes,Yes,None,0,0,0,0,1,1,0,Vadodara,wrinkles,High,0,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+35,Male,normal,No,No,Yes,None,0,1,1,0,1,0,0,Vadodara,dark_circles,Low,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+52,Female,dry,No,Yes,No,Type 1,0,0,0,1,0,1,1,Kolkata,dark_spots,Medium,0,1,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+43,Female,dry,Yes,Yes,Yes,Type 1,1,0,0,1,0,1,1,Jaipur,dark_circles,Medium,0,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+25,Male,dry,Yes,No,No,Type 1,0,0,1,0,0,1,0,Delhi,dark_circles,Low,1,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+66,Female,dry,No,Yes,Yes,Type 1,1,1,0,1,0,1,1,Surat,dark_spots,Low,1,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+48,Female,combination,Yes,Yes,Yes,Type 1,0,0,1,0,0,1,0,Delhi,none,High,0,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+54,Male,normal,No,No,No,Type 1,1,1,0,0,0,0,1,Lucknow,none,Medium,1,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+32,Female,dry,No,Yes,No,None,1,1,0,1,1,0,1,Lucknow,acne,High,0,1,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+54,Female,oily,Yes,No,No,Type 1,1,1,0,0,0,0,0,Jaipur,none,High,1,1,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+68,Male,dry,No,No,Yes,None,0,1,0,1,0,0,0,Chennai,dark_circles,High,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+29,Male,oily,Yes,Yes,Yes,None,1,0,1,0,0,1,0,Jaipur,none,Low,1,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+37,Male,normal,Yes,No,No,None,1,1,1,0,0,0,1,Pune,dark_spots,Medium,0,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+65,Male,normal,No,Yes,No,None,1,0,0,0,0,1,0,Vadodara,acne,High,1,1,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+34,Female,normal,Yes,Yes,Yes,None,1,1,0,1,0,1,1,Jaipur,wrinkles,High,1,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+22,Male,dry,No,No,Yes,Type 1,0,0,0,1,0,0,1,Chennai,wrinkles,Medium,1,1,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+20,Female,combination,Yes,No,No,None,0,1,0,1,1,0,1,Surat,none,Low,1,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+16,Male,combination,No,No,No,Type 1,0,1,0,1,0,1,0,Noida,none,High,0,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+27,Male,dry,No,No,Yes,Type 1,0,0,1,1,1,0,0,Pune,dark_spots,Medium,1,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+28,Female,dry,Yes,Yes,Yes,None,0,1,0,1,0,1,1,Chennai,none,Medium,0,1,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+39,Male,combination,No,No,Yes,Type 1,0,1,1,1,0,0,0,Lucknow,acne,Medium,0,0,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+31,Female,combination,No,No,Yes,None,0,1,1,0,1,1,0,Mumbai,wrinkles,High,0,1,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+25,Female,oily,No,No,No,Type 1,0,0,1,1,0,1,0,Lucknow,none,Low,0,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+25,Female,dry,Yes,Yes,Yes,None,0,1,1,0,1,1,1,Chennai,dark_circles,Medium,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+35,Female,oily,Yes,Yes,No,None,0,1,0,0,1,0,0,Pune,acne,High,1,1,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+68,Female,combination,Yes,Yes,Yes,None,1,1,0,1,1,1,0,Delhi,dark_spots,High,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+55,Female,dry,Yes,Yes,No,None,1,0,0,0,1,1,0,Mumbai,dark_circles,Low,0,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+29,Female,normal,No,Yes,No,Type 1,0,1,1,0,1,1,0,Delhi,none,Low,0,1,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+50,Male,oily,No,No,Yes,Type 1,0,1,1,0,1,1,1,Vadodara,acne,Low,0,1,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+43,Female,combination,Yes,No,Yes,Type 1,0,1,0,1,0,0,1,Surat,acne,Low,0,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+52,Male,normal,Yes,No,No,Type 1,1,1,1,1,1,0,0,Pune,wrinkles,High,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+39,Male,combination,Yes,Yes,No,Type 1,0,0,1,1,0,1,0,Mumbai,wrinkles,Medium,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+52,Male,normal,No,No,No,Type 1,1,1,1,0,0,1,1,Bengaluru,acne,High,0,1,1,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+18,Male,normal,No,No,Yes,None,0,1,0,0,0,1,1,Chennai,dark_circles,High,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+54,Male,normal,Yes,Yes,No,Type 1,1,1,1,0,0,0,1,Bengaluru,acne,Medium,0,0,0,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+65,Male,dry,No,Yes,Yes,Type 1,1,0,1,1,1,1,1,Surat,dark_spots,Low,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+47,Male,dry,Yes,Yes,Yes,None,1,0,0,1,1,0,1,Surat,dark_circles,High,0,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+35,Male,dry,Yes,Yes,No,Type 1,1,0,1,1,1,1,0,Noida,none,Low,1,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+37,Male,oily,No,Yes,Yes,Type 1,0,0,1,0,1,1,1,Kolkata,acne,Medium,1,0,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+25,Female,dry,Yes,No,No,Type 1,0,0,0,1,1,0,1,Pune,acne,Medium,0,0,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+68,Male,normal,Yes,Yes,No,Type 1,1,0,1,0,0,0,1,Lucknow,none,Low,0,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+45,Female,combination,No,Yes,Yes,Type 1,0,1,0,0,1,0,0,Kolkata,acne,High,0,0,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+17,Male,normal,Yes,No,Yes,Type 1,0,1,0,0,0,0,0,Bengaluru,none,Medium,1,1,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+67,Female,combination,Yes,No,Yes,None,0,0,0,0,1,1,1,Bengaluru,acne,Low,0,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+51,Male,combination,No,Yes,Yes,Type 1,1,1,0,1,0,1,0,Surat,acne,Medium,0,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+20,Female,combination,No,No,Yes,None,0,0,1,0,0,1,1,Delhi,none,Low,0,0,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+54,Male,dry,Yes,No,No,None,0,1,0,0,1,0,0,Mumbai,dark_circles,Medium,1,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+67,Female,normal,No,No,Yes,Type 1,0,0,0,1,1,1,0,Agra,dark_spots,Low,1,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+30,Female,oily,No,Yes,No,None,0,1,1,1,0,1,1,Chennai,none,Medium,1,0,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+30,Female,normal,No,No,Yes,None,0,1,1,1,1,1,1,Bengaluru,dark_spots,Low,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+30,Male,normal,No,Yes,No,None,0,0,0,1,0,0,0,Pune,dark_spots,High,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+29,Female,normal,Yes,Yes,No,None,0,0,1,1,0,1,1,Mumbai,none,Medium,0,0,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+57,Male,dry,Yes,Yes,No,Type 1,0,1,1,0,1,1,1,Bengaluru,acne,High,1,0,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+44,Male,dry,Yes,No,No,None,1,0,0,1,1,1,1,Agra,none,High,0,1,1,0,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+17,Male,combination,No,No,No,Type 1,0,0,1,0,1,0,0,Agra,none,Low,1,0,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+21,Male,oily,No,No,Yes,None,1,1,0,0,1,0,1,Delhi,acne,Low,1,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+54,Male,normal,No,No,Yes,Type 1,0,1,1,1,0,1,1,Chennai,dark_spots,High,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+30,Female,combination,No,No,Yes,None,1,0,1,0,0,0,0,Delhi,dark_circles,Low,0,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+70,Male,combination,No,Yes,Yes,Type 1,0,0,1,0,0,0,1,Jaipur,acne,Medium,0,0,1,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+32,Female,normal,No,No,No,Type 1,0,0,1,0,0,1,0,Lucknow,none,Medium,0,1,1,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+51,Female,dry,Yes,Yes,No,Type 1,0,1,1,0,1,1,1,Pune,wrinkles,Low,0,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+28,Male,normal,Yes,No,No,None,1,1,0,1,1,0,0,Mumbai,acne,Low,0,0,0,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+65,Male,oily,Yes,Yes,Yes,None,0,1,1,1,1,0,0,Noida,none,Low,0,1,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+59,Male,dry,Yes,Yes,No,None,1,1,1,0,0,1,0,Vadodara,wrinkles,Low,0,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+53,Female,oily,No,Yes,Yes,Type 1,0,1,1,1,0,1,1,Jaipur,wrinkles,Low,1,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+42,Female,normal,Yes,Yes,Yes,None,0,1,1,0,1,1,0,Delhi,wrinkles,High,1,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+56,Male,dry,Yes,No,No,None,0,0,1,0,0,0,1,Noida,dark_circles,Low,1,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+60,Male,oily,Yes,No,Yes,Type 1,0,1,0,0,0,1,0,Jaipur,dark_circles,High,0,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+20,Male,combination,No,No,No,Type 1,0,1,0,0,0,0,0,Vadodara,none,High,0,0,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+53,Female,dry,No,Yes,Yes,Type 1,1,0,0,1,0,1,0,Lucknow,wrinkles,Low,1,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+51,Male,combination,Yes,Yes,No,None,1,0,1,0,1,1,1,Bengaluru,none,Medium,0,1,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+59,Male,oily,Yes,No,No,None,0,1,0,1,1,1,0,Agra,wrinkles,High,0,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+52,Female,oily,Yes,Yes,Yes,None,1,1,1,1,0,0,1,Jaipur,dark_spots,High,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+22,Female,normal,Yes,No,Yes,None,1,0,0,1,0,1,1,Vadodara,dark_circles,Medium,0,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+54,Male,combination,No,No,Yes,Type 1,1,1,1,0,0,1,1,Vadodara,wrinkles,Low,0,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+69,Male,oily,Yes,No,Yes,Type 1,0,0,1,0,1,1,0,Chennai,acne,Medium,0,0,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+18,Male,oily,No,No,No,Type 1,0,1,1,1,1,1,0,Delhi,dark_spots,Low,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+47,Female,combination,Yes,No,No,Type 1,1,1,1,0,0,0,0,Delhi,wrinkles,Low,0,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+66,Female,normal,Yes,No,Yes,Type 1,0,1,0,0,1,0,1,Mumbai,none,Low,1,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+56,Female,combination,Yes,Yes,Yes,Type 1,1,1,0,1,1,1,1,Mumbai,dark_spots,Medium,1,1,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+69,Male,dry,No,Yes,Yes,Type 1,0,0,0,1,0,0,0,Delhi,wrinkles,Medium,0,1,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+47,Female,dry,Yes,No,Yes,None,1,1,1,0,0,1,0,Chennai,dark_spots,Medium,0,1,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+66,Female,normal,Yes,No,No,None,0,1,0,0,0,0,1,Agra,none,Low,0,0,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+19,Male,combination,No,Yes,Yes,Type 1,0,1,0,0,1,0,0,Noida,acne,Medium,0,1,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+65,Female,dry,No,No,Yes,None,0,1,0,1,0,1,1,Bengaluru,wrinkles,Low,1,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+65,Female,oily,Yes,Yes,No,Type 1,0,1,1,1,0,0,1,Kolkata,wrinkles,High,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+23,Female,combination,No,Yes,Yes,None,1,1,1,0,0,0,1,Chennai,dark_circles,Medium,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+45,Male,dry,Yes,Yes,No,Type 1,1,0,0,1,0,0,0,Noida,none,High,1,0,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+18,Male,normal,Yes,No,No,Type 1,0,0,1,1,1,1,0,Pune,dark_circles,Low,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+16,Female,dry,Yes,No,No,None,0,0,1,0,1,1,0,Chennai,wrinkles,High,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+19,Male,oily,No,Yes,Yes,None,0,1,1,1,1,1,0,Mumbai,dark_spots,Low,1,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+22,Male,combination,No,No,No,None,0,0,1,1,0,0,1,Lucknow,acne,High,0,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+61,Male,normal,Yes,Yes,Yes,Type 1,1,0,0,0,0,1,0,Agra,none,High,1,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+45,Male,oily,Yes,No,Yes,None,1,1,1,0,0,1,0,Kolkata,dark_circles,Medium,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+60,Female,normal,No,Yes,No,None,1,0,1,0,1,0,0,Mumbai,acne,High,1,1,0,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+57,Female,dry,No,Yes,Yes,Type 1,0,1,1,0,1,0,1,Kolkata,dark_circles,Low,1,0,0,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+53,Female,combination,No,No,Yes,None,0,1,1,0,1,0,0,Delhi,acne,Low,1,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+64,Male,normal,No,No,No,None,0,1,0,1,1,0,1,Delhi,dark_spots,Medium,0,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+65,Female,combination,Yes,Yes,No,Type 1,1,0,0,1,0,1,1,Agra,acne,Medium,0,0,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+31,Female,dry,No,Yes,Yes,Type 1,1,0,0,1,0,0,0,Vadodara,dark_spots,High,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+41,Female,normal,Yes,No,No,None,0,0,1,1,0,1,0,Lucknow,acne,High,0,1,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+21,Male,dry,No,No,No,Type 1,1,0,1,1,0,0,0,Jaipur,wrinkles,Medium,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+42,Male,combination,Yes,No,No,None,0,0,1,1,1,0,0,Noida,acne,Medium,1,1,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+47,Female,normal,Yes,No,Yes,None,1,0,1,0,1,1,0,Vadodara,wrinkles,Low,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+33,Female,combination,Yes,No,No,Type 1,1,1,0,0,1,0,1,Kolkata,acne,Low,1,1,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+49,Male,dry,Yes,Yes,No,Type 1,0,1,0,0,1,1,1,Delhi,wrinkles,High,1,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+20,Male,oily,Yes,No,No,Type 1,1,1,1,1,1,0,1,Bengaluru,acne,High,1,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+20,Male,dry,Yes,No,Yes,None,1,1,0,1,1,0,1,Agra,wrinkles,Low,1,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+24,Male,normal,Yes,No,Yes,None,0,0,1,0,1,0,1,Mumbai,dark_circles,High,0,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+42,Female,combination,Yes,No,Yes,None,0,1,0,0,1,1,1,Pune,none,High,0,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+65,Male,normal,Yes,Yes,Yes,Type 1,0,0,1,1,0,0,1,Agra,dark_circles,Low,1,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+35,Male,oily,No,Yes,No,None,1,0,1,1,0,1,0,Noida,acne,Low,0,0,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+17,Female,dry,No,Yes,No,Type 1,0,0,0,0,0,1,0,Jaipur,dark_circles,Medium,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+40,Male,normal,Yes,No,Yes,Type 1,0,0,0,1,1,0,0,Jaipur,dark_circles,Low,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+34,Male,oily,Yes,Yes,No,None,0,1,0,1,1,1,1,Noida,dark_circles,Medium,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+52,Male,normal,No,No,Yes,Type 1,1,0,0,0,1,1,0,Jaipur,dark_spots,Low,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+46,Female,oily,No,No,Yes,None,0,0,0,1,1,1,0,Kolkata,acne,Medium,1,1,0,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+65,Male,combination,No,No,No,None,1,1,0,1,0,0,1,Noida,acne,Low,1,1,0,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+37,Female,normal,No,Yes,Yes,None,1,0,0,1,0,1,0,Noida,dark_spots,Low,0,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+43,Male,normal,Yes,Yes,Yes,Type 1,0,1,1,0,1,1,1,Agra,acne,High,1,0,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+64,Male,dry,No,No,No,Type 1,0,1,1,0,1,1,0,Surat,dark_spots,High,1,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+46,Male,combination,No,No,No,Type 1,1,0,1,1,1,1,1,Chennai,dark_circles,Medium,0,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+54,Male,dry,Yes,Yes,Yes,Type 1,0,0,0,1,1,1,0,Jaipur,dark_spots,Low,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+22,Male,combination,Yes,No,No,None,1,0,0,0,0,0,0,Agra,dark_spots,Low,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+55,Male,dry,Yes,Yes,Yes,None,0,1,0,0,1,1,0,Vadodara,acne,Low,0,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+35,Male,dry,No,No,Yes,None,1,1,1,1,1,0,0,Lucknow,dark_spots,Medium,1,1,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+27,Female,combination,No,Yes,Yes,Type 1,0,1,0,0,1,1,1,Kolkata,none,Medium,0,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+27,Female,combination,Yes,Yes,No,None,0,1,1,0,1,1,1,Pune,none,Medium,0,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+70,Male,oily,No,No,No,Type 1,0,1,0,0,1,1,0,Chennai,wrinkles,High,1,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+23,Male,dry,No,No,No,None,0,0,1,0,1,0,1,Vadodara,dark_spots,Medium,0,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+51,Male,oily,No,No,No,None,0,0,1,1,1,0,0,Jaipur,wrinkles,High,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+56,Male,normal,Yes,No,No,Type 1,0,1,0,0,0,0,0,Agra,dark_circles,High,0,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+53,Female,normal,Yes,No,No,Type 1,1,1,1,0,1,1,0,Vadodara,dark_spots,High,0,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+45,Female,combination,Yes,Yes,No,Type 1,0,0,0,0,1,0,0,Jaipur,none,Medium,0,1,0,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+46,Male,dry,No,No,Yes,None,1,0,0,1,0,0,1,Bengaluru,dark_circles,Low,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+66,Male,dry,Yes,Yes,No,None,1,0,1,0,0,0,1,Jaipur,acne,High,0,0,0,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+39,Male,oily,No,Yes,No,None,0,0,1,1,1,0,1,Delhi,dark_spots,High,0,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+40,Female,normal,Yes,No,Yes,None,1,0,0,1,0,0,1,Chennai,dark_spots,Low,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+22,Female,oily,No,Yes,Yes,None,0,0,1,1,0,0,1,Noida,none,Medium,1,1,0,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+30,Female,normal,No,No,Yes,Type 1,0,1,0,1,0,0,0,Vadodara,acne,High,0,1,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+48,Female,dry,No,Yes,No,Type 1,0,1,1,1,0,1,1,Kolkata,acne,High,1,1,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+26,Male,combination,Yes,Yes,No,None,0,0,1,0,0,0,1,Lucknow,acne,High,1,1,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+68,Male,dry,Yes,No,No,None,1,0,0,0,1,1,0,Noida,acne,Medium,0,0,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+23,Female,oily,Yes,Yes,Yes,None,1,1,1,0,1,1,1,Noida,none,High,1,0,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+64,Female,dry,Yes,No,Yes,Type 1,1,0,1,0,1,0,0,Surat,wrinkles,High,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+53,Male,normal,No,Yes,Yes,None,0,0,1,0,0,1,0,Surat,dark_spots,Medium,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+21,Male,normal,Yes,Yes,No,Type 1,0,0,1,1,0,0,1,Kolkata,dark_spots,Medium,0,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+39,Male,normal,No,No,Yes,Type 1,0,0,1,1,1,1,1,Surat,acne,Low,1,1,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+60,Male,normal,Yes,No,No,Type 1,1,1,0,0,1,1,0,Kolkata,none,Low,0,1,1,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+34,Male,normal,Yes,No,Yes,Type 1,1,1,1,1,1,0,1,Lucknow,dark_spots,Medium,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+37,Female,oily,No,No,No,None,1,0,1,0,1,1,1,Surat,none,Medium,1,0,0,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+45,Female,dry,No,No,Yes,None,0,0,0,1,0,0,0,Delhi,none,High,0,1,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+45,Male,normal,No,No,Yes,None,0,0,1,1,0,0,1,Surat,wrinkles,High,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+30,Female,combination,No,No,Yes,Type 1,1,0,0,0,1,1,1,Bengaluru,acne,High,0,1,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+41,Female,oily,No,Yes,Yes,None,1,1,0,0,1,1,1,Agra,none,High,1,0,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+54,Female,combination,No,No,No,Type 1,1,0,1,0,0,1,1,Pune,dark_spots,Low,1,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+34,Female,dry,Yes,Yes,Yes,Type 1,1,0,1,1,0,1,0,Noida,dark_circles,High,1,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+44,Female,dry,Yes,Yes,No,Type 1,1,1,1,0,0,1,0,Jaipur,dark_spots,Medium,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+16,Female,dry,Yes,Yes,Yes,Type 1,1,1,0,0,1,0,1,Noida,wrinkles,High,1,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+19,Male,combination,Yes,No,Yes,Type 1,0,0,1,0,1,0,1,Bengaluru,none,High,1,0,1,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+69,Female,dry,No,No,Yes,Type 1,0,0,1,1,1,0,0,Lucknow,dark_circles,High,0,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+35,Male,combination,No,Yes,Yes,None,0,1,1,1,0,0,1,Pune,acne,High,1,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+70,Male,dry,Yes,No,No,Type 1,1,1,1,0,0,0,0,Delhi,dark_spots,Low,1,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+33,Female,normal,No,No,No,None,1,1,0,0,0,1,0,Jaipur,none,Medium,0,0,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+25,Male,oily,Yes,No,No,Type 1,1,1,1,0,1,0,1,Lucknow,dark_circles,Low,0,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+19,Male,oily,Yes,Yes,Yes,Type 1,0,1,1,0,0,0,1,Pune,acne,High,1,0,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+57,Female,oily,No,Yes,Yes,None,1,1,0,0,1,0,0,Lucknow,dark_spots,Medium,0,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+31,Male,dry,No,Yes,No,Type 1,0,0,1,0,0,0,0,Kolkata,wrinkles,Low,0,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+50,Male,oily,Yes,No,Yes,Type 1,1,1,0,0,0,0,1,Delhi,none,High,1,0,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+56,Male,oily,Yes,Yes,Yes,Type 1,1,0,0,1,1,1,1,Jaipur,dark_spots,High,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+19,Female,oily,No,No,No,Type 1,1,1,1,0,1,1,1,Mumbai,acne,Medium,0,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+52,Male,normal,Yes,Yes,Yes,Type 1,1,0,1,1,0,1,1,Surat,none,Low,1,0,1,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+48,Female,dry,No,Yes,Yes,None,1,0,0,1,0,0,1,Kolkata,dark_spots,Low,0,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+34,Male,normal,Yes,Yes,No,None,0,1,1,0,0,1,0,Vadodara,dark_circles,Low,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+59,Male,normal,Yes,No,Yes,None,1,1,0,1,1,1,0,Bengaluru,dark_spots,Medium,1,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+29,Female,combination,Yes,No,Yes,None,1,0,0,1,1,0,1,Noida,acne,Medium,0,0,1,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+56,Male,dry,Yes,Yes,Yes,Type 1,1,1,1,0,0,1,1,Surat,dark_spots,High,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+29,Female,dry,Yes,No,No,None,1,0,1,1,0,1,1,Pune,none,Low,1,1,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+39,Female,normal,Yes,Yes,No,Type 1,1,0,0,1,1,0,0,Bengaluru,dark_circles,High,0,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+33,Male,combination,No,Yes,No,None,0,1,1,0,1,1,0,Jaipur,dark_circles,Medium,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+61,Female,normal,Yes,Yes,No,None,0,1,1,0,1,0,1,Vadodara,dark_circles,High,0,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+55,Male,oily,Yes,Yes,Yes,None,1,1,1,1,1,0,0,Jaipur,dark_spots,Low,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+28,Male,combination,No,No,Yes,None,0,1,0,1,0,0,0,Chennai,dark_circles,High,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+53,Female,combination,Yes,Yes,No,Type 1,0,1,0,1,0,0,1,Noida,none,Medium,0,0,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+18,Female,oily,Yes,Yes,Yes,Type 1,1,0,1,1,0,1,1,Lucknow,dark_spots,High,0,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+30,Male,dry,Yes,No,No,Type 1,0,0,1,1,0,1,1,Pune,wrinkles,Medium,1,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+16,Male,dry,Yes,No,No,None,1,0,0,1,0,0,1,Bengaluru,dark_circles,Low,0,0,0,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+43,Female,normal,No,No,Yes,Type 1,1,1,1,0,1,0,0,Surat,acne,High,0,1,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+48,Male,combination,No,Yes,Yes,None,0,1,0,1,1,0,1,Vadodara,wrinkles,Medium,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+55,Male,dry,Yes,Yes,Yes,None,1,1,1,0,1,1,0,Vadodara,dark_circles,High,0,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+52,Male,oily,No,No,No,Type 1,0,0,1,0,0,1,1,Kolkata,acne,High,1,1,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+38,Female,oily,No,Yes,Yes,None,1,1,1,1,1,0,1,Mumbai,dark_spots,High,1,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+31,Male,oily,Yes,Yes,No,None,0,0,1,0,1,0,1,Vadodara,wrinkles,Medium,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+49,Male,combination,No,No,No,None,1,0,1,0,0,0,0,Surat,acne,High,0,0,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+69,Female,oily,No,No,Yes,Type 1,1,0,0,0,0,1,0,Jaipur,dark_circles,High,0,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+53,Female,normal,Yes,No,No,None,0,1,0,0,1,0,0,Agra,dark_circles,Low,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+33,Male,combination,Yes,No,Yes,None,1,0,0,1,1,0,1,Surat,acne,Medium,1,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+23,Male,combination,Yes,No,Yes,None,1,1,1,0,0,1,1,Surat,dark_circles,Medium,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+67,Male,dry,No,Yes,No,None,1,1,0,0,1,0,1,Jaipur,none,Medium,0,0,1,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+68,Female,normal,No,No,No,Type 1,1,1,0,1,0,0,0,Delhi,dark_spots,Medium,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+29,Male,normal,Yes,Yes,Yes,None,1,0,0,1,0,0,1,Lucknow,dark_spots,High,1,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+52,Male,oily,No,Yes,No,None,0,1,1,1,1,1,1,Noida,none,Low,0,0,1,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+54,Male,oily,No,Yes,Yes,Type 1,0,0,0,1,1,1,1,Surat,wrinkles,High,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+32,Female,oily,No,No,No,None,0,1,0,0,0,0,1,Bengaluru,wrinkles,High,0,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+35,Female,combination,No,Yes,No,Type 1,1,0,0,1,0,1,0,Agra,wrinkles,Medium,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+52,Female,dry,Yes,No,No,None,0,0,0,0,1,0,0,Vadodara,wrinkles,High,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+66,Male,normal,No,No,Yes,Type 1,1,1,1,0,0,0,0,Surat,acne,High,1,1,1,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+53,Female,normal,No,Yes,No,None,1,1,0,1,0,0,1,Chennai,acne,Medium,0,1,0,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+22,Male,normal,Yes,No,No,Type 1,0,0,1,0,1,0,1,Bengaluru,acne,Medium,0,0,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+17,Female,dry,No,Yes,No,None,0,1,0,0,0,0,0,Kolkata,dark_spots,High,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+19,Male,dry,No,No,Yes,None,0,0,0,0,0,0,0,Surat,wrinkles,High,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+37,Male,dry,No,No,Yes,None,0,1,0,0,1,0,1,Surat,dark_circles,High,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+46,Male,oily,Yes,No,Yes,None,0,0,1,1,0,1,1,Mumbai,dark_circles,Low,0,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+67,Male,dry,No,Yes,No,None,1,1,0,0,1,1,1,Jaipur,dark_spots,Low,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+62,Male,normal,No,Yes,No,Type 1,0,0,0,1,0,0,1,Kolkata,wrinkles,High,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+31,Female,combination,Yes,Yes,Yes,None,0,1,0,1,1,1,1,Noida,dark_spots,High,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+30,Male,dry,No,Yes,No,Type 1,1,1,0,1,0,1,1,Surat,acne,Low,1,0,1,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+46,Male,oily,No,No,Yes,Type 1,0,0,1,1,0,0,0,Mumbai,acne,Low,0,0,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+43,Male,dry,No,No,Yes,None,1,0,1,0,0,1,0,Surat,dark_circles,Medium,1,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+61,Female,oily,Yes,No,Yes,None,1,1,1,1,1,0,0,Jaipur,acne,Medium,0,1,1,0,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+40,Female,dry,Yes,No,No,None,0,1,0,0,0,1,1,Noida,dark_circles,High,0,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+56,Female,oily,Yes,No,No,Type 1,0,1,1,0,0,1,1,Lucknow,acne,Low,0,0,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+64,Male,combination,Yes,Yes,Yes,None,0,1,0,0,0,1,0,Kolkata,wrinkles,High,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+45,Male,normal,Yes,No,Yes,None,1,1,1,0,1,1,1,Chennai,none,Low,0,1,0,1,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+46,Female,oily,No,No,Yes,Type 1,0,0,0,0,1,1,0,Vadodara,acne,Low,0,1,0,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+34,Female,dry,No,Yes,No,None,1,1,1,0,1,0,0,Noida,acne,Medium,0,1,1,1,0,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+25,Female,combination,Yes,No,Yes,None,1,1,0,1,1,1,0,Mumbai,none,High,1,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+28,Male,oily,No,No,No,Type 1,1,1,1,0,1,0,1,Delhi,dark_circles,Medium,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+43,Female,normal,Yes,Yes,Yes,Type 1,0,1,1,1,1,0,0,Chennai,acne,Medium,0,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+47,Male,dry,Yes,No,Yes,None,1,1,0,0,1,0,0,Pune,dark_circles,Low,0,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+60,Female,combination,No,Yes,No,Type 1,0,1,0,0,1,1,1,Delhi,none,Low,1,0,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+18,Female,dry,No,Yes,Yes,None,0,0,0,0,0,0,1,Lucknow,dark_spots,Medium,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+28,Female,combination,Yes,No,No,Type 1,1,0,1,0,0,1,0,Kolkata,dark_spots,High,0,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+24,Male,normal,Yes,Yes,No,None,0,0,0,0,1,1,1,Delhi,none,High,1,1,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+34,Male,normal,No,Yes,Yes,None,0,1,0,1,1,1,1,Surat,dark_spots,High,1,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+48,Male,combination,No,No,No,None,1,0,0,1,0,0,1,Delhi,dark_spots,Low,0,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+56,Female,normal,Yes,No,Yes,Type 1,1,1,1,0,1,0,0,Lucknow,acne,High,1,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+32,Male,combination,No,Yes,Yes,None,0,0,0,1,0,0,1,Bengaluru,dark_spots,Low,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+62,Female,normal,No,Yes,No,Type 1,1,0,1,1,1,1,0,Vadodara,acne,Low,0,1,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+32,Female,dry,Yes,No,Yes,Type 1,0,1,1,1,1,0,1,Delhi,dark_spots,High,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+67,Female,combination,Yes,Yes,No,Type 1,0,1,0,1,1,1,1,Lucknow,wrinkles,Low,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+45,Male,combination,Yes,No,Yes,Type 1,1,1,1,1,0,0,0,Kolkata,dark_spots,Medium,0,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+20,Female,normal,No,No,Yes,Type 1,1,0,1,0,0,0,0,Agra,none,Low,0,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+20,Female,oily,Yes,Yes,Yes,None,0,1,0,1,1,0,1,Mumbai,none,Low,1,0,1,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+54,Male,combination,No,Yes,Yes,None,0,0,1,0,0,0,0,Lucknow,dark_spots,Low,1,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+32,Male,combination,Yes,Yes,Yes,None,0,1,1,0,1,1,1,Agra,wrinkles,Medium,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+67,Male,oily,Yes,No,Yes,Type 1,0,0,0,0,1,0,1,Bengaluru,acne,High,1,1,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+39,Female,normal,No,Yes,No,None,0,0,1,0,0,1,1,Chennai,acne,Low,1,1,1,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+53,Female,oily,Yes,No,No,None,1,1,1,1,1,1,0,Kolkata,dark_spots,High,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+49,Female,combination,No,No,No,Type 1,0,0,1,1,1,0,1,Lucknow,acne,High,1,1,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+40,Female,combination,Yes,No,Yes,Type 1,1,1,1,0,1,0,1,Vadodara,none,Low,0,1,0,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+60,Female,combination,No,No,No,None,1,1,1,0,1,0,1,Bengaluru,acne,High,1,1,1,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+31,Female,dry,Yes,No,Yes,Type 1,0,1,0,1,1,0,1,Mumbai,none,High,1,0,1,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+69,Male,oily,Yes,No,Yes,Type 1,1,0,1,1,1,0,1,Vadodara,dark_circles,High,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+56,Female,normal,Yes,Yes,No,Type 1,0,0,1,0,1,0,1,Bengaluru,dark_circles,Medium,0,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+25,Male,oily,Yes,Yes,Yes,Type 1,1,1,1,0,0,0,1,Pune,none,Low,0,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+26,Male,combination,No,Yes,No,Type 1,1,0,1,0,1,0,1,Bengaluru,dark_spots,Medium,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+41,Male,oily,No,Yes,No,None,0,1,1,0,1,0,1,Kolkata,dark_spots,High,1,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+53,Female,combination,Yes,Yes,No,None,1,0,1,0,1,0,1,Mumbai,none,Medium,0,1,1,0,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+17,Male,oily,Yes,Yes,No,None,1,1,1,0,0,1,0,Pune,acne,Low,1,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+61,Male,dry,Yes,No,No,Type 1,0,0,1,1,0,0,0,Surat,acne,Medium,1,1,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+24,Female,combination,Yes,Yes,Yes,None,0,1,1,0,0,0,1,Bengaluru,acne,High,1,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+53,Female,oily,No,No,Yes,Type 1,0,0,1,1,0,0,0,Chennai,wrinkles,Low,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+64,Male,dry,Yes,No,No,None,0,0,1,1,0,0,0,Agra,dark_spots,Low,0,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+57,Male,combination,No,Yes,No,None,1,0,0,0,0,1,1,Mumbai,wrinkles,Medium,1,1,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+68,Male,oily,No,No,Yes,Type 1,1,1,1,0,1,1,0,Noida,dark_circles,Medium,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+42,Male,normal,Yes,No,Yes,Type 1,0,0,0,1,1,0,1,Lucknow,dark_spots,High,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+39,Female,combination,Yes,Yes,Yes,Type 1,0,0,1,1,1,0,1,Vadodara,wrinkles,High,1,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+18,Male,oily,Yes,No,Yes,Type 1,0,0,0,1,1,0,0,Kolkata,dark_circles,Medium,0,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+28,Male,dry,Yes,Yes,No,Type 1,0,1,0,1,1,1,0,Chennai,wrinkles,Low,0,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+30,Female,normal,No,No,No,None,1,1,0,1,1,1,0,Pune,dark_circles,Low,0,1,0,0,0,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+70,Male,normal,Yes,No,Yes,Type 1,1,1,1,0,1,0,1,Kolkata,wrinkles,High,1,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+23,Male,combination,Yes,No,No,Type 1,0,0,0,0,1,1,0,Bengaluru,none,Low,1,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+50,Female,combination,No,Yes,No,None,0,1,0,0,0,1,1,Agra,acne,Low,1,0,1,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+61,Female,oily,Yes,No,Yes,Type 1,1,1,0,0,0,1,0,Mumbai,wrinkles,High,1,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+24,Female,dry,No,No,No,None,1,1,0,1,0,1,1,Mumbai,dark_circles,Medium,1,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+45,Female,oily,Yes,No,Yes,None,0,1,1,1,0,1,1,Agra,dark_spots,Low,1,1,0,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+18,Male,oily,No,No,No,Type 1,1,0,1,0,0,1,0,Jaipur,dark_spots,High,1,0,0,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+24,Male,combination,Yes,Yes,No,None,1,1,0,0,1,1,0,Vadodara,acne,Medium,1,1,0,1,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+52,Female,normal,Yes,No,Yes,None,1,0,0,1,0,0,1,Lucknow,acne,Low,1,0,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+25,Male,oily,Yes,No,No,None,0,0,0,1,1,0,0,Jaipur,dark_spots,Low,1,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+34,Male,oily,Yes,No,No,Type 1,0,0,0,1,0,0,1,Jaipur,none,High,1,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+52,Male,dry,No,No,No,None,1,0,1,1,0,0,1,Noida,none,High,0,1,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+37,Female,combination,No,Yes,No,Type 1,1,1,1,1,0,1,0,Surat,acne,High,0,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+25,Female,oily,Yes,No,No,None,0,0,1,0,1,0,1,Bengaluru,acne,Medium,0,1,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+64,Female,oily,No,Yes,Yes,Type 1,1,1,1,0,1,0,1,Surat,acne,Medium,1,0,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+21,Female,normal,Yes,Yes,No,Type 1,1,1,1,1,1,0,0,Delhi,dark_spots,Medium,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+50,Male,normal,No,Yes,Yes,Type 1,0,1,1,0,0,0,1,Surat,wrinkles,High,1,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+39,Female,dry,No,Yes,No,None,0,0,1,1,1,0,1,Vadodara,dark_circles,Low,0,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+64,Male,combination,No,No,No,Type 1,1,1,0,0,0,1,1,Agra,wrinkles,High,1,0,1,1,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+37,Female,combination,No,Yes,Yes,None,1,0,0,0,0,1,1,Vadodara,wrinkles,Low,0,0,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+40,Male,combination,Yes,Yes,Yes,Type 1,0,0,1,0,1,0,1,Vadodara,dark_circles,Low,1,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+29,Female,dry,Yes,No,Yes,None,0,0,1,1,0,0,1,Mumbai,wrinkles,Low,1,1,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+51,Female,normal,Yes,Yes,Yes,Type 1,0,0,1,0,0,1,0,Pune,none,Low,0,1,1,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+31,Female,combination,Yes,Yes,No,None,0,1,0,0,1,0,1,Lucknow,dark_circles,Low,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+22,Female,normal,Yes,No,Yes,None,0,1,0,0,1,0,1,Lucknow,dark_circles,Low,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+57,Female,dry,No,No,Yes,Type 1,0,0,0,1,0,1,1,Kolkata,none,Medium,0,1,0,1,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+30,Female,oily,No,Yes,Yes,None,1,1,0,0,1,0,0,Jaipur,dark_spots,Medium,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+33,Female,combination,Yes,No,No,Type 1,1,0,1,1,0,1,1,Kolkata,none,Medium,0,1,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+63,Male,oily,Yes,Yes,Yes,Type 1,0,1,0,1,1,0,1,Vadodara,none,Medium,1,1,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+17,Male,combination,Yes,Yes,Yes,Type 1,1,0,1,1,0,1,1,Kolkata,dark_circles,Medium,0,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+65,Male,oily,Yes,Yes,Yes,None,0,1,0,1,0,0,0,Pune,wrinkles,Low,0,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+33,Male,dry,No,No,No,Type 1,1,1,1,0,0,1,0,Agra,wrinkles,Medium,0,0,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+58,Male,oily,Yes,No,No,None,0,0,1,1,0,1,1,Delhi,wrinkles,Low,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+23,Female,dry,Yes,No,Yes,Type 1,0,0,1,0,1,0,0,Chennai,dark_circles,Low,1,1,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+16,Female,oily,No,Yes,No,Type 1,0,1,1,0,1,1,0,Vadodara,dark_circles,Medium,0,0,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+56,Male,oily,Yes,Yes,Yes,Type 1,0,0,1,0,1,1,1,Agra,dark_spots,High,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+43,Female,normal,No,No,No,None,1,1,1,0,1,1,1,Kolkata,acne,High,1,0,0,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+47,Male,normal,No,Yes,Yes,Type 1,1,0,0,0,1,1,0,Chennai,dark_spots,Low,0,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+65,Male,oily,No,No,Yes,Type 1,1,0,0,0,1,0,0,Pune,wrinkles,High,0,0,1,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+41,Male,oily,No,Yes,No,Type 1,0,1,1,0,0,1,0,Bengaluru,dark_spots,Medium,1,1,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Medium
+55,Female,oily,Yes,No,Yes,Type 1,1,0,0,0,1,0,1,Pune,wrinkles,Low,0,1,0,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+34,Male,normal,Yes,No,Yes,Type 1,0,0,0,0,0,0,1,Lucknow,wrinkles,High,0,1,1,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+49,Male,dry,Yes,No,No,Type 1,0,1,0,1,0,0,1,Bengaluru,dark_spots,High,0,1,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",High
+44,Male,dry,Yes,Yes,No,Type 1,0,1,0,0,0,0,1,Lucknow,wrinkles,High,1,0,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+57,Male,combination,Yes,Yes,No,Type 1,1,1,0,0,0,0,1,Surat,wrinkles,Medium,0,0,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+51,Female,normal,Yes,No,No,Type 1,0,1,1,1,0,0,1,Lucknow,none,Medium,0,1,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+45,Male,normal,No,Yes,No,Type 1,1,1,1,0,0,1,1,Lucknow,wrinkles,High,0,0,1,0,1,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",High
+27,Female,dry,No,Yes,Yes,None,0,1,0,0,0,0,0,Surat,none,High,1,0,1,1,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+40,Male,normal,Yes,No,Yes,None,0,0,0,1,0,0,0,Vadodara,none,Medium,1,0,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+47,Female,oily,Yes,No,Yes,Type 1,0,0,0,1,1,0,0,Vadodara,dark_circles,High,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+57,Male,combination,No,Yes,Yes,Type 1,1,1,0,0,1,0,0,Pune,acne,Low,1,1,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+23,Female,combination,Yes,No,Yes,Type 1,1,0,0,0,0,1,0,Vadodara,none,Low,1,0,1,0,0,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+35,Female,oily,Yes,No,No,Type 1,0,1,0,1,0,1,1,Surat,none,High,0,1,0,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+18,Female,normal,Yes,No,Yes,Type 1,1,0,1,1,0,0,0,Kolkata,none,Low,0,0,0,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+41,Male,combination,No,Yes,Yes,None,1,0,0,1,0,1,1,Kolkata,acne,Medium,0,0,0,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+30,Male,oily,Yes,No,Yes,None,1,0,0,1,0,1,1,Surat,wrinkles,Low,0,0,1,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+63,Male,combination,Yes,Yes,No,Type 1,1,0,0,0,1,1,0,Agra,none,Medium,0,0,0,0,1,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Medium
+18,Male,normal,No,Yes,Yes,Type 1,1,0,1,0,0,0,0,Vadodara,dark_circles,Medium,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Medium
+24,Female,oily,Yes,No,Yes,None,1,0,0,1,1,0,1,Kolkata,acne,Low,1,0,0,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+58,Female,dry,No,No,Yes,Type 1,0,1,0,1,1,0,0,Kolkata,acne,Low,1,0,1,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+37,Female,combination,Yes,Yes,No,None,0,1,0,0,1,1,1,Vadodara,acne,Medium,0,1,1,0,1,0,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Medium
+33,Male,combination,Yes,No,Yes,None,1,0,0,0,1,1,1,Delhi,wrinkles,Low,1,0,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+17,Male,dry,Yes,No,No,None,0,1,0,0,0,0,1,Bengaluru,acne,High,0,1,1,1,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+66,Male,combination,Yes,Yes,Yes,Type 1,1,1,0,1,1,0,1,Agra,acne,Low,1,1,1,1,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",Low
+35,Female,normal,No,No,No,Type 1,0,0,0,1,1,0,0,Agra,none,Low,1,1,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+21,Male,oily,No,No,Yes,None,1,1,0,0,1,0,1,Jaipur,none,Low,0,1,1,0,1,0,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+17,Female,combination,No,Yes,No,Type 1,1,0,0,0,1,0,0,Bengaluru,dark_spots,Low,1,0,0,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+47,Male,dry,No,Yes,Yes,None,0,0,0,0,1,0,1,Pune,dark_circles,High,1,0,0,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High
+38,Female,combination,No,No,Yes,Type 1,1,0,0,1,1,0,0,Delhi,dark_circles,Low,1,0,1,1,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",Low
+45,Female,normal,No,Yes,Yes,None,1,1,0,0,1,0,0,Agra,wrinkles,Medium,1,1,0,0,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Medium
+56,Female,combination,No,Yes,Yes,Type 1,0,0,1,0,0,0,0,Chennai,wrinkles,Low,1,1,1,1,1,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+26,Male,dry,No,No,Yes,None,1,0,0,1,0,1,0,Agra,wrinkles,Low,1,1,1,0,0,0,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Hyaluronic Moisturizer AM, SPF 30 AM, Retinol Serum PM, Peptide Night Cream PM",Low
+28,Female,oily,Yes,Yes,No,None,1,1,1,0,1,1,1,Chennai,none,High,1,0,1,0,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",High
+29,Male,normal,Yes,No,No,None,1,0,0,1,1,1,0,Delhi,acne,High,0,1,1,0,1,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+18,Female,combination,Yes,Yes,No,None,1,0,1,0,0,1,1,Noida,none,Low,1,0,0,1,0,1,"Gentle Cleanser AM/PM, Basic Moisturizer, SPF if daytime",Low
+53,Male,normal,Yes,Yes,Yes,None,0,0,0,0,0,0,0,Bengaluru,acne,High,1,1,0,0,0,1,"Oil-Free Salicylic Acid Cleanser AM, Niacinamide Serum AM, Lightweight Gel Moisturizer AM, SPF 30 AM, Benzoyl Peroxide Spot PM, Adapalene PM",High
+64,Female,combination,Yes,No,Yes,None,0,1,0,1,0,1,0,Delhi,dark_spots,Low,1,0,0,1,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+21,Male,combination,No,Yes,Yes,None,1,1,0,0,1,1,0,Mumbai,dark_spots,Low,1,0,0,0,0,1,"Gentle Hydrating Cleanser AM, Vitamin C Serum AM, Kojic Acid/Niacinamide/Alpha Arbutin PM, SPF 30 AM",Low
+48,Male,dry,No,No,No,Type 1,1,1,0,1,1,0,0,Kolkata,dark_circles,High,1,1,0,0,0,0,"Gentle Hydrating Cleanser AM, Caffeine Eye Cream AM, Lightweight Moisturizer AM, SPF 30 AM, Niacinamide Eye Cream PM, Lightweight Gel PM",High

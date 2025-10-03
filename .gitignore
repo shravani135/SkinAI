@@ -1,0 +1,14 @@
+# Node / React
+node_modules/
+build/
+.env
+
+# Python / Flask
+__pycache__/
+*.pyc
+venv/
+instance/
+.env
+
+# Logs
+*.log
