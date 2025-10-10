@@ -34,7 +34,7 @@ function Register({ onBack }) {
   ]);
 
   const handleChange = (e) => {
-    const { name, value, type, checked } = e.target;
+    const { name, value, checked } = e.target;
 
     if (name === "allergies") {
       let updated = [...formData.allergies];
